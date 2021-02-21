@@ -1,2 +1,5 @@
 # instabrute2.0
-instagram bruteforce 
+## InstaBrute Two Ways to Brute-force Instagram Account Hacking
+`chmod +x insta.sh`
+`./insta.sh`
+
