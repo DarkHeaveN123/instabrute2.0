@@ -10,3 +10,5 @@
 `./insta.sh`
 ## THEN TOOL IS RUN 
 
+![insta](https://user-images.githubusercontent.com/79021904/109390343-135dab00-7937-11eb-910b-dcf010045ebf.png)
+
