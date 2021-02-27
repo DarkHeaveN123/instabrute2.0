@@ -49,8 +49,11 @@ printf "\e[1;92m ) )| ||  _ \  /___)(_   _)(____ |[DARKHOLE] \e[0m\n"
 printf "\e[1;77m(_/ | || | | ||___ |  | |_ / ___ |  _____   \e[0m\n"
 printf "\e[1;77m    |_||_| |_|(___/    \__)\_____| (_____)  \e[0m\n"
 printf "\n"
-printf "\e[1;77m\e[45m   Instagram Brute Forcer v2.0 Author:[DARKHEAVEN] [GITHUB:DARKHEAVEN123]   \e[0m\n"
+printf "\e[1;77m\e[45m   Instagram HASH  CRACKERING V2.0 Author:[DARKHEAVEN] [GITHUB:DARKHEAVEN123]   \e[0m\n"
+printf "\e[1;77m\e[41m   Instagram HASH CRACKERING V2.0    \e[0m\n"
 printf "\n"
+
+
 }
 
 function start() {
@@ -126,7 +129,8 @@ checktor
 count_pass=$(wc -l $wl_pass | cut -d " " -f1)
 printf "\e[1;92mUsername:\e[0m\e[1;77m %s\e[0m\n" $user
 printf "\e[1;92mWordlist:\e[0m\e[1;77m %s (%s)\e[0m\n" $wl_pass $count_pass
-printf "\e[1;91m[*] Press Ctrl + C to stop or save session\n\e[0m"
+printf "\e[1;91m[*] All Hash Found [Sha5 Hash]\n\e[0m"
+
 
 startline=1
 endline="$threads"
